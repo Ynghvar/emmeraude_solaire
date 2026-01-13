@@ -1,0 +1,186 @@
+--- Page 1 ---
+```plaintext
+Émeraude Solaire
+Fiche de contrôle Électriciens
+Date : 20/01/2025
+Rév : 1
+
+PROCÈS VERBAL DE RÉCEPTION PROVISOIRE AVANT MISE EN SERVICE
+
+Je soussigné, ci-après désignés aux rôles de maître d’ouvrage représentant LE CLIENT, et, maître d’œuvre représentant EMERAUDE SOLAIRE à travers son conducteur de travaux élu ou son chef d’équipe, après avoir procédé à la visite des travaux effectués par l’entreprise EMERAUDE SOLAIRE au titre de la commande relative à l’INSTALLATION SOLAIRE PHOTOVOLTAÏQUE ; après les travaux de pose de centrale photovoltaïque et de raccordement.
+
+N° de chantier : 2291
+
+Déclare que :
+
+1) POSE CENTRALE PHOTOVOLTAÏQUE :
+☐ La réception des travaux de pose, avant contrôles réglementaires et mise en production, est prononcée sans réserve avec effet à la date de signature du présent procès-verbal.
+☐ La réception est prononcée avec effet à la date de signature du présent procès-verbal assortie des réserves mentionnées dans l’état sous-énoncé :
+
+NATURES DES RÉSERVES :
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+2) RACCORDEMENT ÉLECTRIQUE CENTRALE PHOTOVOLTAÏQUE :
+☐ La réception des travaux de pose, avant contrôles réglementaires et mise en production, est prononcée sans réserve avec effet à la date de signature du présent procès-verbal.
+☐ La réception est prononcée avec effet à la date de signature du présent procès-verbal assortie des réserves mentionnées dans l’état sous-énoncé :
+
+NATURES DES RÉSERVES :
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+Fait à : Vigneux, le 20-01-2025
+
+Nom Client : ___________________________
+Nom Conducteur travaux : Yannick
+Nom Chef d’équipe : Crombez
+
+Signature Client : [Signature]
+Signature Conducteur travaux : [Signature]
+Signature Chef d’équipe : [Signature]
+
+---
+
+POCHETTE POSEURS
+
+Nom du Dossier : GAEC DE VAULEON
+Semaine de Pose : S5
+
+Numéro du chantier : 2291
+Commercial : J. OLCHANOWSKA
+Nom du client : M. BLAIRE BENJAMIN
+Chargé d’études : C. CUZEL
+Numéro de téléphone : 07 82 49 54 42
+Conducteur de travaux : Y. JOETZER
+Adresse du projet : LE CLOS DE LA PELLE - 35630 LANGOUET
+
+Vente totale : ☒ Vente de surplus ☐ Autoconsommation
+Option Shelter (oui/non) : OUI
+
+Pochette Poseurs
+- Plan de prévention / PPSPS : ☐ VALIDE ☐ NA
+- Schéma unifilaire : ☐ VALIDE ☐ NA
+- Carnet de plan : ☐ VALIDE ☐ NA
+- Nomenclature : ☐ VALIDE ☐ NA
+- Photos visites chantiers : ☐ VALIDE ☐ NA
+- Procès verbal de réception de travaux : ☐ VALIDE ☐ NA
+- Fiche de fin de chantier : ☐ VALIDE ☐ NA
+
+Configuration du chantier
+Puissance installation : 252,735 kWc
+Panneaux : 609 x LONGI LRS 415 Wc
+Système d’Intégration : FIBRO SOLAR
+Onduleur : 2 x HUA SUN2000 100 KTL-M2
+
+Remarques :
+--------------------------------------------------------------
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+Page 3
+```
+
+--- Page 2 ---
+```plaintext
+Émeraude Solaire
+
+Fiche de contrôle Poseurs
+Date : 20/01/2025
+Rév. : 1
+
+Contrôle des panneaux : Contrôle Journalier - Selon Guide des bonnes pratiques EMS
+
+Absence Tension RISO
+| NB PANNEAUX | TENSION | Mesure Tension | Conforme | Conforme |
+|-------------|---------|----------------|----------|----------|
+| String      |         |                |          |          |
+| N°1         | 628     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°2         | 634     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°3         | 629     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°4         | 630     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°5         | 631     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°6         | 632     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°7         | 633     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°8         | 634     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°9         | 635     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°10        | 636     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°11        | 637     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°12        | 638     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°13        | 639     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°14        | 640     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°15        | 641     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°16        | 642     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°17        | 643     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°18        | 644     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°19        | 645     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°20        | 646     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°21        | 647     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°22        | 648     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°23        | 649     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°24        | 650     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°25        | 651     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°26        | 652     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°27        | 653     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°28        | 654     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°29        | 655     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°30        | 656     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°31        | 657     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°32        | 658     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°33        | 659     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°34        | 660     | Pv             | Vdc      | ☒ O      | ☒ N      |
+| N°35        | 661     | Pv             | Vdc      | ☒ O      | ☒ N      |
+
+NB : Attention ! Bien vérifier l'absence de défauts d'isolement sur les chaînes PV (RISO)
+
+Remarques et actions correctives :
+______________________________________________________________________________________
+
+---
+
+Émeraude Solaire
+
+Fiche de contrôle Poseurs
+Date : 20/01/2025
+Rév. : 1
+
+Nom du chef d'équipe : _____________________________
+Date intervention : ________________________________
+
+---
+
+Pose Bac Acier :
+| Contrôles                                                                 | Conforme |
+|--------------------------------------------------------------------------|----------|
+| Sens de recouvrement des tôles selon le vent dominant (Voir fiche de tâche) | ☐ OUI / ☐ NON |
+| Vérification du démoussage du feutre sur 20cm à la gouttière en fonction du sens de pose | ☐ OUI / ☐ NON |
+| Vérification recouvrement transversal (Voir Fiche de tâche)              | ☐ OUI / ☐ NON |
+| Vérification recouvrement longitudinal (Voir Fiche de tâche)             | ☐ OUI / ☐ NON |
+| Vérification du type de fixation utilisée en fonction du type de support (Bois, Acier, etc...) | ☐ OUI / ☐ NON |
+| Nb de tirefond en rive : 1 tirefond toutes les lisses ou une largeur de 1m | ☐ OUI / ☐ NON |
+| Nb de tirefond au faîtage et à l’égout : 1 tirefond toutes les ondes sur les deux premières pannes | ☐ OUI / ☐ NON |
+| Nb de vis de couture aux recouvrements longitudinal et transversal : 1 vis toutes les ondes | ☐ OUI / ☐ NON |
+
+Remarques et actions correctives :
+______________________________________________________________________________________
+
+---
+
+Pose du Kit d’intégration et des Panneaux :
+| Contrôles                                                                 | Conforme |
+|--------------------------------------------------------------------------|----------|
+| Pose du kit conformément à la notice constructeur (K2, Dome, Adiwatt, etc...) | ☐ OUI / ☐ NON |
+| Pose des strings dans les règles de l’art (éviter boucle d’induction / vérifier que les connecteurs ne touchent pas les bacs) | ☐ OUI / ☐ NON |
+| Vérification de la pose et du bon nombre de panneaux par string selon le plan de calepinage | ☐ OUI / ☐ NON |
+| Vérification du bon serrage des modules PV                                | ☐ OUI / ☐ NON |
+| Nettoyage et démontage des éléments de sécurité                          | ☐ OUI / ☐ NON |
+| Ramener les bons de livraisons avec les numéros de série des panneaux    | ☐ OUI / ☐ NON |
+| Envoyer des photos de l’installation une fois posée ainsi qu’une étiquette d’un panneau | ☐ OUI / ☐ NON |
+
+Remarques et actions correctives :
+______________________________________________________________________________________
+
+Page 4
+```
+

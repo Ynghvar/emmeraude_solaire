@@ -1,0 +1,31 @@
+--- Page 1 ---
+```
+émeraude
+solaire
+
+Fiche de Défauts MES  
+Date : 09/09/21  
+Rév : A  
+
+Mise en service  
+
+Nom Chantier : VALEON AO : ...  
+N° Chantier : 22291  
+Nom Technicien : T. Leclerc  
+Date : 31/06/25  
+Signature Technicien : [Signature]  
+
+| Localisation du problème | Anomalies rencontrées                          | Temps passé |
+|--------------------------|-----------------------------------------------|-------------|
+| Partie DC                | R.A.S                                       |             |
+| Partie AC                | R.A.S                                       |             |
+| Partie Communication     | Mauvais câblage                             | 15 min      |
+|                          | Fils non dénudés et mal serrés              |             |
+| Liaison Equipotentielle ;| Valeur de Résistance Ohmétrique             |             |
+| Mesure de terre          | Légèrement supérieure                       |             |
+| Divers ; Remarques       | Pochette électricien                        |             |
+|                          | Infos non remplies                          |             |
+
+Page 1
+```
+

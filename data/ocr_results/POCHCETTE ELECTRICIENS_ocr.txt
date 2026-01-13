@@ -1,0 +1,248 @@
+--- Page 1 ---
+**Page 1**
+
+---
+
+**Émeraude Solaire**  
+Fiche de contrôle Électriciens  
+Date : 20/01/2025  
+Rév. : 1  
+
+---
+
+### PROCÈS-VERBAL DE RÉCEPTION PROVISOIRE AVANT MISE EN SERVICE
+
+Je soussigné, ci-après désignés aux rôles de maître d’ouvrage représentant LE CLIENT, et maître d’œuvre représentant EMERAUDE SOLAIRE à travers son conducteur de travaux et/ou son chef d’équipe, après avoir procédé à la visite des travaux effectués par l’entreprise EMERAUDE SOLAIRE au titre de la commande relative à l’INSTALLATION SOLAIRE PHOTOVOLTAÏQUE ; après les travaux de pose de centrale photovoltaïque et de raccordement.  
+
+N° de chantier : ....................................................  
+
+Déclare que :  
+
+---
+
+**1) POSE CENTRALE PHOTOVOLTAÏQUE :**  
+
+☐ La réception des travaux de pose, avant contrôles réglementaires et mise en production, est prononcée sans réserve avec effet à la date de signature du présent procès-verbal.  
+
+☐ La réception est prononcée avec effet à la date de signature du présent procès-verbal assortie des réserves mentionnées dans l’état sous-énoncé :  
+
+**NATURES DES RÉSERVES :**  
+....................................................................................................................  
+....................................................................................................................  
+....................................................................................................................  
+
+---
+
+**2) RACCORDEMENT ÉLECTRIQUE CENTRALE PHOTOVOLTAÏQUE :**  
+
+☐ La réception des travaux de pose, avant contrôles réglementaires et mise en production, est prononcée sans réserve avec effet à la date de signature du présent procès-verbal.  
+
+☐ La réception est prononcée avec effet à la date de signature du présent procès-verbal assortie des réserves mentionnées dans l’état sous-énoncé :  
+
+**NATURES DES RÉSERVES :**  
+....................................................................................................................  
+....................................................................................................................  
+....................................................................................................................  
+
+---
+
+Fait à ...................................................., le ....................................................  
+
+| **Nom Client :** | **Nom Conducteur travaux :** | **Nom Chef d’équipe :** |  
+|------------------|-------------------------------|--------------------------|  
+|                  |                               |                          |  
+
+| **Signature Client :** | **Signature Conducteur travaux :** | **Signature Chef d’équipe :** |  
+|-------------------------|------------------------------------|-------------------------------|  
+|                         |                                    |                               |  
+
+---
+
+**Page 2**
+
+---
+
+**POCHETTE ÉLECTRICIENS**  
+
+**Nom du Dossier**  
+**GAEC DE VAULEON**  
+
+**Semaine de Pose**  
+**S5**  
+
+| **Numéro du chantier** | **2291** | **Commercial** | **J. OLICHANOWSKA** |  
+|-------------------------|----------|----------------|---------------------|  
+| **Nom du client**       | **M. BLAIRE BENJAMIN** | **Chargé d’études** | **C. CUZEL** |  
+| **Numéro de téléphone** | **07 82 49 54 42** | **Conducteur de travaux** | **Y. JOETZER** |  
+| **Adresse du projet**   | **[Texte barré]** | **[Texte manuscrit]** | **M. Vauleon** |  
+|                         |                  |                         | **Vijon** |  
+
+---
+
+| **Vente totale** | ☑ Vente de surplus | ☐ Autoconsommation |  
+|------------------|--------------------|--------------------|  
+
+| **Option Shelter (oui/non) :** | **OUI** |  
+
+---
+
+**Pochette Électriciens**  
+
+| **Plan de prévention / PPSPS** | ☐ |  
+| **Carnet de plan**             | ☐ |  
+| **Fiche de fin de chantier & PV réception de travaux** | ☐ |  
+
+---
+
+**Configuration du chantier**  
+
+| **Puissance installation** | **252,735 kWc** |  
+|----------------------------|-----------------|  
+| **Panneaux**               | **609 x Longi LRS 415 Wc** |  
+| **Système d’intégration**  | **FIBRO SOLAR** |  
+| **Onduleur(s)**            | **2 x HUA SUN2000 100 KTL-M2** |  
+
+---
+
+| **Nom du chef d’équipe :** | .................................................... | **Date intervention :** | .................................................... |  
+|----------------------------|----------------------------------------------------|-------------------------|----------------------------------------------------|  
+
+| **Chantier Terminé :** | ☑ OUI | ☐ NON |  
+|------------------------|--------|--------|  
+
+| **NSX Raccordé :** | ☑ OUI | ☐ NON |  
+|---------------------|--------|--------|  
+
+| **Com Onduleur - Terminé :** | ☑ OUI | ☐ NON |  
+|------------------------------|--------|--------|  
+
+---
+
+**Vérification documents :**  
+
+| **Présence Schéma électrique et Calepinage plastifié dans coffret** | OK ☐ | NOK ☐ | Remarques |  
+|--------------------------------------------------------------------|------|-------|-----------|  
+
+**Photos :**  
+- Prendre photos locaux onduleurs, intérieurs coffrets et cheminements de câbles DC/AC + Envoi conducteur de travaux  
+
+**Remarques :**  
+....................................................................................................................  
+....................................................................................................................  
+
+---  
+**Page 1**  
+
+--- Page 2 ---
+```plaintext
+Émeraude Solaire
+
+Fiche de contrôle Électriciens
+Date : 20/01/2025
+Rév. : J
+
+Mesure des tensions des chaînes DC
+
+| Conformité | STRINGS | ELEC | MES | Conformité | STRINGS | ELEC | MES |
+|------------|---------|------|-----|------------|---------|------|-----|
+|            | N°1     | PV   | Vdc | 0          | IN      |      |            | N°26    | PV   | Vdc | 0          | IN      |
+|            | N°2     | PV   | Vdc | 0          | IN      |      |            | N°27    | PV   | Vdc | 0          | IN      |
+|            | N°3     | PV   | Vdc | 0          | IN      |      |            | N°28    | PV   | Vdc | 0          | IN      |
+|            | N°4     | PV   | Vdc | 0          | IN      |      |            | N°29    | PV   | Vdc | 0          | IN      |
+|            | N°5     | PV   | Vdc | 0          | IN      |      |            | N°30    | PV   | Vdc | 0          | IN      |
+|            | N°6     | PV   | Vdc | 0          | IN      |      |            | N°31    | PV   | Vdc | 0          | IN      |
+|            | N°7     | PV   | Vdc | 0          | IN      |      |            | N°32    | PV   | Vdc | 0          | IN      |
+|            | N°8     | PV   | Vdc | 0          | IN      |      |            | N°33    | PV   | Vdc | 0          | IN      |
+|            | N°9     | PV   | Vdc | 0          | IN      |      |            | N°34    | PV   | Vdc | 0          | IN      |
+|            | N°10    | PV   | Vdc | 0          | IN      |      |            | N°35    | PV   | Vdc | 0          | IN      |
+|            | N°11    | PV   | Vdc | 0          | IN      |      |            | N°36    | PV   | Vdc | 0          | IN      |
+|            | N°12    | PV   | Vdc | 0          | IN      |      |            | N°37    | PV   | Vdc | 0          | IN      |
+|            | N°13    | PV   | Vdc | 0          | IN      |      |            | N°38    | PV   | Vdc | 0          | IN      |
+|            | N°14    | PV   | Vdc | 0          | IN      |      |            | N°39    | PV   | Vdc | 0          | IN      |
+|            | N°15    | PV   | Vdc | 0          | IN      |      |            | N°40    | PV   | Vdc | 0          | IN      |
+|            | N°16    | PV   | Vdc | 0          | IN      |      |            | N°41    | PV   | Vdc | 0          | IN      |
+|            | N°17    | PV   | Vdc | 0          | IN      |      |            | N°42    | PV   | Vdc | 0          | IN      |
+|            | N°18    | PV   | Vdc | 0          | IN      |      |            | N°43    | PV   | Vdc | 0          | IN      |
+|            | N°19    | PV   | Vdc | 0          | IN      |      |            | N°44    | PV   | Vdc | 0          | IN      |
+|            | N°20    | PV   | Vdc | 0          | IN      |      |            | N°45    | PV   | Vdc | 0          | IN      |
+|            | N°21    | PV   | Vdc | 0          | IN      |      |            | N°46    | PV   | Vdc | 0          | IN      |
+|            | N°22    | PV   | Vdc | 0          | IN      |      |            | N°47    | PV   | Vdc | 0          | IN      |
+|            | N°23    | PV   | Vdc | 0          | IN      |      |            | N°48    | PV   | Vdc | 0          | IN      |
+|            | N°24    | PV   | Vdc | 0          | IN      |      |            | N°49    | PV   | Vdc | 0          | IN      |
+|            | N°25    | PV   | Vdc | 0          | IN      |      |            | N°50    | PV   | Vdc | 0          | IN      |
+
+Vérification DC :
+- Contrôle compatibilité connecteurs DC (MC4 F > MC4 M etc.) et serrages
+- Aucune tensions DC entre (+) et (-) et à la Terre
+- Distance entre les conducteurs AC
+
+Vérification armoires électriques AC :
+- Serrage PE et Outreing des PE non utilisés
+- Vérification des serrages au bon couple (bosses et bornes)
+- Liaison Equipotentielle autour du bâtiment réalisée
+- Mise à la terre de la structure conducteurs
+- Mesure de terre pour les projets inférieurs à 150kWc (Mesure < 50 Ohms)
+- Mesure de terre pour les projets supérieurs à 150kWc (Mesure < 20 Ohms)
+- Mesure de terre des postes locaux/abri
+- Câble de surgé (si modification)
+
+Vérification repérage :
+- Présence de tous les repérages sur STRINGS
+- Repérage des câbles AC
+- Étiquetage
+- Identification des appareillages
+- Identification coupure d’urgence
+
+Vérification communication :
+- Vérification câblages et serrages matériel communication
+- Test alimentation matériel communication
+
+| OK | NOK | Remarques |
+|----|-----|-----------|
+| ☐  | ☐   |           |
+| ☐  | ☐   |           |
+| ☐  | ☐   |           |
+| ☐  | ☐   |           |
+
+Section : ___________ Longueur : ___________
+
+---
+
+Émeraude Solaire
+
+Fiche de contrôle Électriciens
+Date : 20/01/2025
+Rév. : J
+
+Étiquette Onduleur 1 :
+[Image of a Huawei Qualification Card]
+合格证/QUALIFICATION CARD
+序列号/OC: 0100358
+生产日期: 2024-09-19
+Manufactured: September 19, 2024
+HUAWEI
+HUAWEI TECHNOLOGIES CO., LTD.
+MADE IN CHINA
+
+Étiquette Onduleur 2 :
+[Image of a Huawei Qualification Card]
+合格证/QUALIFICATION CARD
+序列号/OC: 0100358
+生产日期: 2024-09-19
+Manufactured: September 19, 2024
+HUAWEI
+HUAWEI TECHNOLOGIES CO., LTD.
+MADE IN CHINA
+
+Étiquette Onduleur 3 :
+[Empty box]
+
+Étiquette Onduleur 4 :
+[Empty box]
+
+Étiquette Matériel communication :
+[Empty box]
+
+Page 2
+```
+
