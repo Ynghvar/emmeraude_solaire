@@ -736,15 +736,6 @@ with st.sidebar:
     
     st.divider()
     
-    # Section "Modèles utilisés" - Collapse automatique quand il y a des messages
-    with st.expander("🔧 Modèles utilisés", expanded=not has_messages):
-        st.info("""
-        - **Whisper** : Transcription audio
-        - **GPT-4o** : Génération de réponses
-        """)
-    
-    st.divider()
-    
     # Section "Synthèse vocale" - Collapse automatique quand il y a des messages
     with st.expander("🔊 Synthèse vocale", expanded=not has_messages):
         st.markdown("La synthèse vocale permet d'avoir un retour audio en plus d'écrit de la part de l'IA. Activez là afin d'avoir une discussion vocale avec l'IA.")
@@ -926,3 +917,12 @@ with st.sidebar:
     # Afficher le nombre de messages
     if st.session_state.messages:
         st.info(f"💬 {len(st.session_state.messages)} messages dans l'historique")
+    
+    st.divider()
+    
+    # Section "Modèles utilisés" - Collapse automatique quand il y a des messages
+    with st.expander("🔧 Modèles utilisés", expanded=not has_messages):
+        st.info("""
+        - **Whisper** : Transcription audio
+        - **GPT-4o** : Génération de réponses
+        """)
