@@ -129,7 +129,7 @@ st.markdown("""
         padding: 12px 20px;
         background-color: transparent;
         border: 1px solid #3d3d3d;
-        color: #ffffff;
+        color: var(--text-color);
     }
     
     /* Supprimer l'espace au-dessus du chat */
