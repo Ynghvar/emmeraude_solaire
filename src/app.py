@@ -100,7 +100,7 @@ st.markdown("""
         height: 50px;
         padding: 0;
         font-size: 20px;
-        background-color: #2d2d2d;
+        background-color: transparent;
         border: none;
         display: flex;
         align-items: center;
@@ -115,7 +115,7 @@ st.markdown("""
     }
     
     div.stButton > button:hover {
-        background-color: #3d3d3d;
+        background-color: rgba(255, 255, 255, 0.1);
         border: none;
     }
     
@@ -127,7 +127,7 @@ st.markdown("""
     div.stTextInput > div > div > input {
         border-radius: 25px;
         padding: 12px 20px;
-        background-color: #2d2d2d;
+        background-color: transparent;
         border: 1px solid #3d3d3d;
         color: #ffffff;
     }
@@ -338,7 +338,7 @@ col_title, col_spacer, col_logo1, col_logo2 = st.columns([3, 0.5, 0.5, 0.5])
 
 with col_title:
     st.title("💬 Chatbot IA Conversationnel")
-    st.markdown("Chattez avec l'IA en utilisant du texte, un fichier audio ou en enregistrant votre voix")
+    st.markdown("Chattez avec l'IA en utilisant du texte, un fichier audio ou en enregistrant votre voix. L'IA identifiera le type de fiche et la remplira automatiquement. Donnez autant d'informations que possible pour que l'IA puisse remplir la fiche correctement ou laissez vous guider")
 
 with col_logo1:
     try:
@@ -714,7 +714,7 @@ elif send_recording and audio_recording is not None:
 with st.sidebar:
     st.header("ℹ️ À propos")
     st.markdown("""
-    **Chatbot IA Conversationnel**
+    **Chatbot IA Conversationnel pour la création de fiches**
     
     Chattez avec une IA en utilisant :
     - ✍️ **Texte** : Tapez directement votre message
@@ -722,6 +722,12 @@ with st.sidebar:
     - 🎤 **Enregistrement** : Enregistrez votre voix directement
     
     L'IA comprend le contexte de la conversation et répond de manière cohérente.
+    L'IA identifiera le type de fiche et la remplira automatiquement. Donnez autant d'informations que possible pour que l'IA puisse remplir la fiche correctement ou laissez vous guider.
+    Type de fiche disponible :
+    - Fiche de Défauts
+    - Fiche de Contrôle MES
+    - Fiche de Contrôle Poseur
+    - Fiche de Contrôle Electricien
     """)
     
     st.divider()
