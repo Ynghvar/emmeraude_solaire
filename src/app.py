@@ -716,13 +716,13 @@ with st.sidebar:
     st.markdown("""
     **Chatbot IA Conversationnel pour la création de fiches**
     
-    Chattez avec une IA en utilisant :
+    Vous pouvez commencer une discussion avec l'IA en utilisant les formats suivants :
     - ✍️ **Texte** : Tapez directement votre message
     - 📁 **Fichier Audio** : Uploadez un fichier audio (.wav, .mp3, .m4a)
     - 🎤 **Enregistrement** : Enregistrez votre voix directement
     
     L'IA comprend le contexte de la conversation et répond de manière cohérente.
-    L'IA identifiera le type de fiche et la remplira automatiquement. Donnez autant d'informations que possible pour que l'IA puisse remplir la fiche correctement ou laissez vous guider.
+    Il y a 4 types de fiche disponible :
     Type de fiche disponible :
     - Fiche de Défauts
     - Fiche de Contrôle MES
