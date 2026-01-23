@@ -712,45 +712,50 @@ elif send_recording and audio_recording is not None:
 
 # Sidebar avec informations et actions
 with st.sidebar:
-    st.header("ℹ️ À propos")
-    st.markdown("""
-    **Chatbot IA Conversationnel pour la création de fiches**
+    # Déterminer si l'utilisateur a commencé à chatter
+    has_messages = len(st.session_state.messages) > 0
     
-    Vous pouvez commencer une discussion avec l'IA en utilisant les formats suivants :
-    - ✍️ **Texte** : Tapez directement votre message
-    - 📁 **Fichier Audio** : Uploadez un fichier audio (.wav, .mp3, .m4a)
-    - 🎤 **Enregistrement** : Enregistrez votre voix directement
-    
-    L'IA comprend le contexte de la conversation et répond de manière cohérente.
-    Il y a 4 types de fiches disponibles :
-    Type de fiche disponible :
-    - Fiche de Défauts
-    - Fiche de Contrôle MES
-    - Fiche de Contrôle Poseur
-    - Fiche de Contrôle Electricien
-    """)
-    
-    st.divider()
-    
-    st.header("🔧 Modèles utilisés")
-    st.info("""
-    - **Whisper** : Transcription audio
-    - **GPT-4o** : Génération de réponses
-    """)
+    # Section "À propos" - Collapse automatique quand il y a des messages
+    with st.expander("ℹ️ À propos", expanded=not has_messages):
+        st.markdown("""
+        **Chatbot IA Conversationnel pour la création de fiches**
+        
+        Vous pouvez commencer une discussion avec l'IA en utilisant les formats suivants :
+        - ✍️ **Texte** : Tapez directement votre message
+        - 📁 **Fichier Audio** : Uploadez un fichier audio (.wav, .mp3, .m4a)
+        - 🎤 **Enregistrement** : Enregistrez votre voix directement
+        
+        L'IA comprend le contexte de la conversation et répond de manière cohérente.
+        Il y a 4 types de fiches disponibles :
+        Type de fiche disponible :
+        - Fiche de Défauts
+        - Fiche de Contrôle MES
+        - Fiche de Contrôle Poseur
+        - Fiche de Contrôle Electricien
+        """)
     
     st.divider()
     
-    # Paramètres de synthèse vocale
-    st.header("🔊 Synthèse vocale")
-    st.markdown("La synthèse vocale permet d'avoir un retour audio en plus d'écrit de la part de l'IA. Activez là afin d'avoir une discussion vocale avec l'IA.")
-    text_to_speech_enabled = st.toggle(
-        "Activer la synthèse vocale",
-        value=st.session_state.text_to_speech_enabled,
-        key="text_to_speech_toggle",
-        help="Lire automatiquement les réponses de l'assistant à voix haute"
-    )
-    if text_to_speech_enabled != st.session_state.text_to_speech_enabled:
-        st.session_state.text_to_speech_enabled = text_to_speech_enabled
+    # Section "Modèles utilisés" - Collapse automatique quand il y a des messages
+    with st.expander("🔧 Modèles utilisés", expanded=not has_messages):
+        st.info("""
+        - **Whisper** : Transcription audio
+        - **GPT-4o** : Génération de réponses
+        """)
+    
+    st.divider()
+    
+    # Section "Synthèse vocale" - Collapse automatique quand il y a des messages
+    with st.expander("🔊 Synthèse vocale", expanded=not has_messages):
+        st.markdown("La synthèse vocale permet d'avoir un retour audio en plus d'écrit de la part de l'IA. Activez là afin d'avoir une discussion vocale avec l'IA.")
+        text_to_speech_enabled = st.toggle(
+            "Activer la synthèse vocale",
+            value=st.session_state.text_to_speech_enabled,
+            key="text_to_speech_toggle",
+            help="Lire automatiquement les réponses de l'assistant à voix haute"
+        )
+        if text_to_speech_enabled != st.session_state.text_to_speech_enabled:
+            st.session_state.text_to_speech_enabled = text_to_speech_enabled
     
     st.divider()
     
