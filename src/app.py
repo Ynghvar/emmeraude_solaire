@@ -338,8 +338,8 @@ col_title, col_spacer, col_logo1, col_logo2 = st.columns([3, 0.5, 0.5, 0.5])
 
 with col_title:
     st.title("💬 Chatbot IA Conversationnel")
-    st.markdown("Chattez avec l'IA en utilisant du texte, un fichier audio ou en enregistrant votre voix. L'IA identifiera le type de fiche et la remplira automatiquement. Donnez autant d'informations que possible pour que l'IA puisse remplir la fiche correctement ou laissez vous guider")
-
+    st.markdown("Chattez avec l'IA en utilisant du texte, un fichier audio ou en enregistrant votre voix. L'IA identifiera le type de fiche ou vous pouvez la choisir manuellement et la remplira automatiquement. Donnez autant d'informations que possible pour que l'IA puisse remplir la fiche correctement ou laissez vous guider.")
+    st.markdown("Pour commencer, veuillez envoyer un message de type 'Je veux créer une fiche de défaut' ou 'Je veux remplir une fiche controle poseur pour le projet XXX'.")
 with col_logo1:
     try:
         st.image("img/Emmeraude.png", width=80)
