@@ -722,7 +722,7 @@ with st.sidebar:
     - 🎤 **Enregistrement** : Enregistrez votre voix directement
     
     L'IA comprend le contexte de la conversation et répond de manière cohérente.
-    Il y a 4 types de fiche disponible :
+    Il y a 4 types de fiches disponibles :
     Type de fiche disponible :
     - Fiche de Défauts
     - Fiche de Contrôle MES
@@ -742,6 +742,7 @@ with st.sidebar:
     
     # Paramètres de synthèse vocale
     st.header("🔊 Synthèse vocale")
+    st.markdown("La synthèse vocale permet d'avoir un retour audio en plus d'écrit de la part de l'IA. Activez là afin d'avoir une discussion vocale avec l'IA.")
     text_to_speech_enabled = st.toggle(
         "Activer la synthèse vocale",
         value=st.session_state.text_to_speech_enabled,
@@ -755,6 +756,7 @@ with st.sidebar:
     
     # Mode Fiche de Défauts
     st.header("📋 Créer une fiche")
+    st.markdown("Vous pouvez créer une fiche de défaut, de controle poseur, de controle electricien ou de controle mes. Cliquez sur le bouton 'Activer le mode Fiche' pour commencer. Et sélectionnez le type de fiche que vous souhaitez créer.")
     
     # Toggle pour activer/désactiver le mode
     fiche_mode_active = st.toggle(
